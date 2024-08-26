@@ -935,6 +935,27 @@ blockquote {
   height: 300px;
 }
 
+.modal-thumbnail-0 {
+  width: 100%;
+  height: 160px;
+  -webkit-box-align: end;
+  -webkit-align-items: flex-end;
+  -ms-flex-align: end;
+  align-items: flex-end;
+  border-bottom: 5px solid #000;
+  background-image: url('../images/Karl_Storz_J10L.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: repeat;
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  color: #fff;
+}
+
+.modal-thumbnail-0.large {
+  height: 300px;
+}
+
 .modal-thumbnail-3 {
   width: 100%;
   height: 160px;
