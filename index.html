@@ -13,30 +13,17 @@
     <link rel="stylesheet" href="index.css" />
   </head>
   <body>
-    <table class="header">
-      <tbody>
-        <tr>
-          <td colspan="2" rowspan="2" class="width-auto">
-            <h1 class="title">Hallo! 👋</h1>
-            <span class="subtitle">I am Joeran.</span>
-          </td>
-          <th>Version</th>
-          <td class="width-min">v1.0.0</td>
-        </tr>
-        <tr>
-          <th>Updated</th>
-          <td class="width-min">
-            <time style="white-space: pre">2024-09-02</time>
-          </td>
-        </tr>
-        <tr>
-          <th class="width-min">Author</th>
-          <td class="width-min"><cite>J10L</cite></td>
-          <th class="width-auto">Country</th>
-          <td>🇺🇸</td>
-        </tr>
-      </tbody>
-    </table>
+    <header class="site-header">
+      <div class="site-title-group">
+        <h1 class="title">Hallo! 👋</h1>
+        <p class="subtitle">I am Joeran.</p>
+      </div>
+      <div class="site-meta-group">
+        <p>Version: v1.0.0</p>
+        <p>Updated: <time>2024-09-02</time></p>
+      </div>
+    </header>
+
     <div class="grid">
       <nav id="TOC" role="doc-toc">
         <h2 id="toc-title">Contents</h2>
@@ -91,7 +78,6 @@
       <img
         src="images/Profile_Joeran.jpg"
         alt="Joeran Kinzel Profile (2024)"
-        style="padding-bottom: 9.59993px"
       />
     </div>
     <hr />
@@ -101,7 +87,7 @@
     </p>
     <hr />
     <h2 id="quick-links">Quick links</h2>
-    <table>
+    <table class="quick-links-table">
       <thead>
         <tr>
           <th class="width-auto">🔍 Find Me</th>
@@ -112,39 +98,31 @@
         <tr>
           <td>LinkedIn</td>
           <td>
-            <button>
-              <a
+            <a class="button-link"
                 target="_blank"
                 href="https://www.linkedin.com/in/joeran-kinzel/"
                 >Open</a
               >
-            </button>
           </td>
         </tr>
         <tr>
           <td>Github</td>
           <td>
-            <button>
-              <a target="_blank" href="https://github.com/j10l">Open</a>
-            </button>
+            <a class="button-link" target="_blank" href="https://github.com/j10l">Open</a>
           </td>
         </tr>
         <tr>
           <td>Facebook</td>
           <td>
-            <button>
-              <a target="_blank" href="https://www.facebook.com/j03ran">Open</a>
-            </button>
+            <a class="button-link" target="_blank" href="https://www.facebook.com/j03ran">Open</a>
           </td>
         </tr>
         <tr>
           <td>Medium</td>
           <td>
-            <button>
-              <a target="_blank" href="https://medium.com/@joeran_kinzel"
+            <a class="button-link" target="_blank" href="https://medium.com/@joeran_kinzel"
                 >Open</a
               >
-            </button>
           </td>
         </tr>
       </tbody>
@@ -155,7 +133,6 @@
     <img
       src="images/Karl_Storz_J10L.jpg"
       alt="Karl Storz"
-      style="padding-bottom: 19.2px"
     />
     <table>
       <thead>
@@ -175,32 +152,28 @@
     </table>
     <ul class="incremental">
       <li>
-        Enhanced system reliability and performance through improved monitoring,
+        Enhanced system reliability and performance, leading to [e.g., a reduction in downtime by X% or Y% faster processing], through improved monitoring,
         automation, and the successful deployment of critical updates for
         medical devices while maintaining compliance and cybersecurity
         standards.
       </li>
       <li>
-        Developed automation scripts for DevOps tasks, streamlined artifact
-        management in nightly builds, and implemented CI/CD configurations to
-        boost productivity and build process reliability.
+        Boosted productivity and build process reliability by developing automation scripts for DevOps tasks (e.g., reducing manual effort by X hours/week), streamlining artifact
+        management in nightly builds, and implementing CI/CD configurations.
       </li>
       <li>
         Contributed to Free and Open Source Software (FOSS) initiatives,
-        supported FDA audit preparations, managed Grafana for system monitoring,
+        supported FDA audit preparations (resulting in [e.g., successful audit outcomes]), managed Grafana for system monitoring,
         and utilized tools like Docker, Podman, Git, and virtualization
         technologies such as VMware and VirtualBox.
       </li>
     </ul>
-    <button>
-      <a target="_blank" href="https://www.karlstorz.com">Visit Website</a>
-    </button>
+    <a class="button-link" target="_blank" href="https://www.karlstorz.com">Visit Website</a>
     <hr />
     <h3 id="experience-four">#4 - 1012 Consulting LLC</h3>
     <img
       src="images/1012_Consulting_J10L.jpg"
       alt="1012 Consulting"
-      style="padding-bottom: 19.2px"
     />
     <table>
       <thead>
@@ -222,29 +195,26 @@
       <li>
         Envisioned and co-created IoT / Smart Home consulting business to offer
         lifestyle automation technology and services for discerning estate home
-        clients &amp; companies.
+        clients &amp; companies, achieving [e.g., X client acquisitions in the first year].
       </li>
       <li>
         Offer full custom design and specialized integration projects, including
         full-stack development, firmware &amp; OS development, product &amp;
         hardware design, UI &amp; UX design, custom high-end Smart Home
         installations, databases &amp; data science, fleet management and cloud
-        infrastructure services.
+        infrastructure services, delivering [e.g., an average of Y projects per quarter].
       </li>
       <li>
         Local installations / services include extensive complex smart-home
-        installations and additions to multi-million-dollar homes.
+        installations and additions to multi-million-dollar homes, enhancing property value by [e.g., an estimated Z%].
       </li>
     </ul>
-    <button>
-      <a target="_blank" href="https://1012consulting.com">Visit Website</a>
-    </button>
+    <a class="button-link" target="_blank" href="https://1012consulting.com">Visit Website</a>
     <hr />
     <h3 id="experience-three">#3 - Quantum Integration Inc.</h3>
     <img
       src="images/Quantum_J10L.jpg"
       alt="Quantum Integration"
-      style="padding-bottom: 19.2px"
     />
     <table>
       <thead>
@@ -266,37 +236,35 @@
       <li>
         Led all aspects of start-up efforts from product conception through
         validation, certification, manufacturing, and distribution to 40+
-        countries worldwide.
+        countries worldwide, achieving [e.g., X units sold in Y years].
       </li>
       <li>
-        Directed all software development efforts, including team management,
-        sprints, releases &amp; features planning, production deployment, and
+        Directed all software development efforts, including team management (of [e.g., X developers]),
+        sprints, releases &amp; features planning (delivering [e.g., Y major releases]), production deployment, and
         testing.
       </li>
       <li>
         Managed ad campaigns, packaging, video material, brochures, website,
-        online store, and newsletter.
+        online store, and newsletter, resulting in [e.g., X% growth in engagement or Y new leads].
       </li>
       <li>
         Held responsibility for client / consumer interface and satisfaction,
         including personal interactions, service desk, online shopping
-        experience, documentation, and hardware / software product experience.
+        experience, documentation, and hardware / software product experience, maintaining a [e.g., Z% satisfaction rate].
       </li>
       <li>
         Facilitated product certification, enabling worldwide product
-        distribution.
+        distribution and [e.g., entry into N new markets].
       </li>
     </ul>
-    <button>
-      <a
+    <a class="button-link"
         target="_blank"
         href="https://web.archive.org/web/20230628075736/https://quantumintegrate.com/"
         >Visit Website</a
       >
-    </button>
     <hr />
     <h3 id="experience-two">#2 - VTG AG</h3>
-    <img src="images/VTG_J10L.jpg" alt="VTG" style="padding-bottom: 19.2px" />
+    <img src="images/VTG_J10L.jpg" alt="VTG" />
     <table>
       <thead>
         <tr>
@@ -320,36 +288,33 @@
         focused on company-wide optimization, including:
       </li>
       <li>
-        Development of interface tests for business management applications.
+        Development of interface tests for business management applications, improving test coverage by [e.g., X%].
       </li>
       <li>
         Coordination and implementation of a new IoT solution to provide
         telematics data, including location &amp; speed of rental wagons, fleet
         management and predictive maintenance. (In time, this solution was
-        implemented over the worldwide fleet of 80,000+ wagons).
+        implemented over the worldwide fleet of 80,000+ wagons, leading to [e.g., Y% reduction in maintenance costs]).
       </li>
       <li>
         Creation of a blockchain concept for optimization of business processes
-        and logistics.
+        and logistics, presenting findings that [e.g., demonstrated potential for Z% efficiency gain].
       </li>
       <li>
         Design and implementation of a critical IT Security Process to address
         complex security threats and meet and exceed the company's cyber
-        security insurance requirements.
+        security insurance requirements, successfully mitigating [e.g., N potential vulnerabilities].
       </li>
       <li>
-        Recognized company-wide by CTO and upper management for achievements.
+        Recognized company-wide by CTO and upper management for achievements, including [e.g., specific award or commendation if applicable].
       </li>
     </ul>
-    <button>
-      <a target="_blank" href="https://www.vtg.com/">Visit Website</a>
-    </button>
+    <a class="button-link" target="_blank" href="https://www.vtg.com/">Visit Website</a>
     <hr />
     <h3 id="experience-one">#1 - Kinexus</h3>
     <img
       src="images/Kinexus_J10L.jpg"
-      alt="Quantum Integration"
-      style="padding-bottom: 19.2px"
+      alt="Kinexus"
     />
     <table>
       <thead>
@@ -370,141 +335,126 @@
     <ul class="incremental">
       <li>
         Offered custom web-based solutions and business management applications
-        to serve small and mid-size business clients.
+        to serve small and mid-size business clients, resulting in [e.g., an average client growth of X%].
       </li>
       <li>
-        Acquired and served approximately 5 repeat customers through referrals.
+        Acquired and served approximately 5 repeat customers through referrals, demonstrating [e.g., high client retention/satisfaction].
       </li>
       <li>
         Projects ranged from simple website designs to sophisticated and complex
-        web-based business management applications.
+        web-based business management applications, delivering solutions that [e.g., streamlined client operations by an average of Y%].
       </li>
     </ul>
-    <button>
-      <a
+    <a class="button-link"
         target="_blank"
         href="https://web.archive.org/web/20170626081533/http://kinexus.de/"
         >Visit Website</a
       >
-    </button>
     <hr />
     <h2 id="about">About</h2>
     <h3 id="about-one">#1 - Skills</h3>
     <img
       src="images/Skills_J10L.jpg"
       alt="Skills"
-      style="padding-bottom: 19.2px"
     />
     <p>Here is a list of fancy buzzwords:</p>
-    <ul class="incremental">
-      <li>
-        General
-        <ol>
-          <li>Internet of Things</li>
-          <li>Smart Homes</li>
-          <li>Blockchain</li>
-          <li>Startups / Business Management</li>
-          <li>Software Project Management</li>
-          <li>Software Architecture</li>
-          <li>Cloud Computing / Infrastructure</li>
-          <li>Web Development</li>
-          <li>UI / UX Design</li>
-          <li>Product Design</li>
-          <li>Business Consulting</li>
-          <li>Marketing</li>
-          <li>Shopify</li>
-          <li>Meta &amp; Google Ads</li>
-          <li>Amazon FBA, ADS, AWS</li>
-          <li>ITIL Certified</li>
-        </ol>
-      </li>
-      <li>
-        Programming
-        <ol>
-          <li>Javascript</li>
-          <li>Python</li>
-          <li>Java</li>
-          <li>C</li>
-          <li>C++</li>
-          <li>Groovy</li>
-        </ol>
-      </li>
-      <li>
-        Front-end
-        <ol>
-          <li>React</li>
-          <li>Redux</li>
-          <li>HTML5</li>
-          <li>CSS</li>
-          <li>iOS</li>
-          <li>Android</li>
-          <li>Liquid</li>
-          <li>Cypress</li>
-        </ol>
-      </li>
-      <li>
-        Back-end
-        <ol>
-          <li>Node.js</li>
-          <li>Express</li>
-          <li>REST API</li>
-          <li>Websockets</li>
-          <li>SQL</li>
-          <li>NoSQL</li>
-        </ol>
-      </li>
-      <li>
-        DevOps
-        <ol>
-          <li>Docker</li>
-          <li>Jenkins</li>
-          <li>Linux</li>
-          <li>Balena</li>
-          <li>AWS</li>
-          <li>Git</li>
-        </ol>
-      </li>
-      <li>
-        Productivity
-        <ol>
-          <li>Jira</li>
-          <li>Confluence</li>
-          <li>Trello</li>
-          <li>Notion</li>
-          <li>Office 365</li>
-        </ol>
-      </li>
-      <li>
-        Design
-        <ol>
-          <li>Adobe XD</li>
-          <li>Adobe Illustrator</li>
-          <li>Material Design</li>
-        </ol>
-      </li>
-      <li>
-        Languages
-        <ol>
-          <li>German</li>
-          <li>English</li>
-        </ol>
-      </li>
+    
+    <h4>General</h4>
+    <ul>
+      <li>Internet of Things</li>
+      <li>Smart Homes</li>
+      <li>Blockchain</li>
+      <li>Startups / Business Management</li>
+      <li>Software Project Management</li>
+      <li>Software Architecture</li>
+      <li>Cloud Computing / Infrastructure</li>
+      <li>Web Development</li>
+      <li>UI / UX Design</li>
+      <li>Product Design</li>
+      <li>Business Consulting</li>
+      <li>Marketing</li>
+      <li>Shopify</li>
+      <li>Meta &amp; Google Ads</li>
+      <li>Amazon FBA, ADS, AWS</li>
+      <li>ITIL Certified</li>
     </ul>
+
+    <h4>Programming</h4>
+    <ul>
+      <li>Javascript</li>
+      <li>Python</li>
+      <li>Java</li>
+      <li>C</li>
+      <li>C++</li>
+      <li>Groovy</li>
+    </ul>
+
+    <h4>Front-end</h4>
+    <ul>
+      <li>React</li>
+      <li>Redux</li>
+      <li>HTML5</li>
+      <li>CSS</li>
+      <li>iOS</li>
+      <li>Android</li>
+      <li>Liquid</li>
+      <li>Cypress</li>
+    </ul>
+
+    <h4>Back-end</h4>
+    <ul>
+      <li>Node.js</li>
+      <li>Express</li>
+      <li>REST API</li>
+      <li>Websockets</li>
+      <li>SQL</li>
+      <li>NoSQL</li>
+    </ul>
+
+    <h4>DevOps</h4>
+    <ul>
+      <li>Docker</li>
+      <li>Jenkins</li>
+      <li>Linux</li>
+      <li>Balena</li>
+      <li>AWS</li>
+      <li>Git</li>
+    </ul>
+
+    <h4>Productivity</h4>
+    <ul>
+      <li>Jira</li>
+      <li>Confluence</li>
+      <li>Trello</li>
+      <li>Notion</li>
+      <li>Office 365</li>
+    </ul>
+
+    <h4>Design</h4>
+    <ul>
+      <li>Adobe XD</li>
+      <li>Adobe Illustrator</li>
+      <li>Material Design</li>
+    </ul>
+
+    <h4>Languages</h4>
+    <ul>
+      <li>German</li>
+      <li>English</li>
+    </ul>
+
     <p>
       If you are missing something in particular, I am sure I will be able to
       learn it in no time!
     </p>
-    <button>
-      <a target="_blank" href="https://www.linkedin.com/in/joeran-kinzel/"
+    <a class="button-link" target="_blank" href="https://www.linkedin.com/in/joeran-kinzel/"
         >See my skills</a
       >
-    </button>
     <hr />
     <h3 id="about-two">#2 - Made in Germany - 1995</h3>
     <img
       src="images/Germany_J10L.jpg"
       alt="Germany"
-      style="padding-bottom: 19.2px"
     />
     <p>
       Staying true to my origin: My dad taught me how to build my first computer
@@ -526,13 +476,11 @@
       </li>
     </ul>
     <p>If you ever worked with a German you know what I mean.</p>
-    <button>
-      <a
+    <a class="button-link"
         target="_blank"
         href="https://www.google.com/maps/@53.86627,10.6793833,3a,75y,1.56h,97.47t/data=!3m8!1e1!3m6!1sAF1QipMaoH7seVGFHBN58eQwdtBAQG3jePraIkJcvqW4!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMaoH7seVGFHBN58eQwdtBAQG3jePraIkJcvqW4%3Dw203-h100-k-no-pi-0-ya70.69653-ro-0-fo100!7i5376!8i2688"
         >Visit my hometown</a
       >
-    </button>
     <hr />
     <h3 id="about-three">
       #3 - B. Sc. Computer Science and Business Management
@@ -540,7 +488,6 @@
     <img
       src="images/University_J10L.jpg"
       alt="University"
-      style="padding-bottom: 19.2px"
     />
 
     <p>Computer Science:</p>
@@ -562,17 +509,14 @@
       life.
     </p>
 
-    <button>
-      <a target="_blank" href="https://www.nordakademie.de/"
+    <a class="button-link" target="_blank" href="https://www.nordakademie.de/"
         >Visit my university</a
       >
-    </button>
     <hr />
     <h3 id="about-four">#4 - My values and favorite quotes</h3>
     <img
       src="images/Values_Quotes_J10L.jpg"
       alt="Values and Quotes"
-      style="padding-bottom: 19.2px"
     />
 
     <ul class="incremental" type="1">
@@ -600,17 +544,19 @@
       <li>Luck is what happens when preparation meets opportunity.</li>
     </ul>
 
-    <button>
-      <a
+    <a class="button-link"
         target="_blank"
         href="https://www.notion.so/Quotes-3331c63ce7844a29b16298b41bcfef0b?cookie_sync_completed=true"
         >See all quotes</a
       >
-    </button>
     <hr />
-    <p>Design based on The Monospace Web by Oskar Wickström.</p>
-    <hr />
-    <p>©2024 Joeran Kinzel. All rights reserved. Made in CA.</p>
+    
+    <footer class="site-footer">
+      <p>Author: J10L | Country: 🇺🇸</p>
+      <p>Design based on The Monospace Web by Oskar Wickström. Refreshed in 2024.</p>
+      <p>©2024 Joeran Kinzel. All rights reserved. Made in CA.</p>
+    </footer>
+
     <script src="index.js"></script>
   </body>
 </html>
