@@ -17,10 +17,16 @@ const milestones = [
     note: "Leading a 60+ person global engineering organization across embedded imaging, cybersecurity, DevSecOps, and AI-enabled delivery.",
   },
   {
-    date: "2018 — now",
+    date: "Jul 2025 — now",
+    company: "Kinexis US LLC",
+    role: "Founder & Software Engineer",
+    note: "Creating practical connected-technology solutions for homes and businesses, with an emphasis on thoughtful design, reliable automation, and hands-on partnership.",
+  },
+  {
+    date: "2018 — 2024",
     company: "1012 Consulting",
     role: "Co-owner & Software Engineer",
-    note: "Designing tailored technology solutions from connected products and cloud infrastructure to high-end smart-home systems.",
+    note: "Built tailored technology solutions spanning smart-home systems, connected products, cloud infrastructure, and custom digital experiences.",
   },
   {
     date: "2012 — 2024",
@@ -75,7 +81,7 @@ export default function Home() {
             <div className="absolute -left-4 -top-4 z-10 grid h-14 w-14 place-items-center rounded-full bg-[#d7ff3f] text-2xl shadow-sm">👋</div>
             <div className="relative aspect-[4/5] overflow-hidden rounded-[1.8rem] bg-black">
               <Image
-                src="/images/profile-joeran.jpg"
+                src="/images/profile-joeran-bw.png"
                 alt="Joeran Kinzel"
                 fill
                 priority
@@ -125,7 +131,7 @@ export default function Home() {
 
       <section id="writing" className="border-b border-black/15 bg-white px-5 py-20 sm:px-8 sm:py-28 lg:px-12">
         <div className="mx-auto max-w-7xl"><div className="flex flex-wrap items-end justify-between gap-6"><div><p className="eyebrow">Coming soon</p><h2 className="display-text mt-5 text-5xl tracking-[-0.06em] sm:text-7xl">Notes from the field.</h2></div><p className="max-w-xs text-sm leading-relaxed text-black/60">A future home for essays on engineering leadership, AI, systems thinking, and the work behind the work.</p></div>
-          <div className="mt-12 grid border-t border-black/20 md:grid-cols-3">{writing.map(([number, title, description]) => <article key={number} className="group border-b border-black/20 py-7 md:border-b-0 md:py-9 md:pr-8 md:not-last:border-r md:not-last:pr-8 md:not-last:pl-0 md:last:pl-8"><span className="font-mono text-xs text-black/45">{number}</span><h3 className="mt-10 text-2xl font-bold tracking-[-0.04em] group-hover:underline">{title}</h3><p className="mt-4 max-w-xs leading-relaxed text-black/60">{description}</p><span className="mt-8 inline-block text-sm font-bold uppercase tracking-[0.13em] text-black/45">In progress</span></article>)}</div>
+          <div className="mt-12 grid border-t border-black/20 md:grid-cols-3">{writing.map(([number, title, description]) => <article key={number} className="group border-b border-black/20 py-7 md:border-b-0 md:px-8 md:py-9 md:not-last:border-r md:first:pl-0 md:last:pr-0"><span className="font-mono text-xs text-black/45">{number}</span><h3 className="mt-10 text-2xl font-bold tracking-[-0.04em] group-hover:underline">{title}</h3><p className="mt-4 max-w-xs leading-relaxed text-black/60">{description}</p><span className="mt-8 inline-block text-sm font-bold uppercase tracking-[0.13em] text-black/45">In progress</span></article>)}</div>
         </div>
       </section>
 
