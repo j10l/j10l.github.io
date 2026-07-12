@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+:root { --ink: #11110f; --paper: #f4f3ef; --acid: #d7ff3f; }
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; background: var(--paper); }
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: Arial, Helvetica, sans-serif; }
+::selection { background: var(--acid); color: var(--ink); }
+
+.display-text { font-family: Georgia, "Times New Roman", serif; font-weight: 700; }
+.eyebrow { font-size: .7rem; font-weight: 800; letter-spacing: .16em; line-height: 1.2; text-transform: uppercase; }
+.link-underline { text-underline-offset: .3em; }
+.link-underline:hover { text-decoration: underline; }
+.button-primary, .button-secondary { display: inline-flex; align-items: center; gap: .75rem; border-radius: 9999px; padding: .9rem 1.2rem; font-size: .75rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; transition: transform 160ms ease, background 160ms ease; }
+.button-primary { background: var(--ink); color: var(--paper); }
+.button-secondary { border: 1px solid rgb(0 0 0 / .25); }
+.button-primary:hover, .button-secondary:hover { transform: translateY(-2px); }
+.button-primary:hover { background: #30302d; }
+.button-secondary:hover { background: white; }
+.contact-link { display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid rgb(0 0 0 / .28); padding-bottom: .8rem; font-size: 1.125rem; font-weight: 800; letter-spacing: -.025em; transition: transform 160ms ease; }
+.contact-link:hover { transform: translateX(.3rem); }
+
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } *, *::before, *::after { transition-duration: .01ms !important; animation-duration: .01ms !important; } }
