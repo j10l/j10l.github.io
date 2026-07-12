@@ -18,7 +18,7 @@ const milestones = [
   },
   {
     date: "Jul 2025 — now",
-    company: "Kinexis US LLC",
+    company: "KINEXUS US LLC",
     role: "Founder & Software Engineer",
     note: "Creating practical connected-technology solutions for homes and businesses, with an emphasis on thoughtful design, reliable automation, and hands-on partnership.",
   },
