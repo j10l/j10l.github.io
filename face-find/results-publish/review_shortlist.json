@@ -1,0 +1,1742 @@
+[
+  {
+    "id": 19361890301,
+    "name": "_B225288.jpg",
+    "similarity": 0.208,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.892,
+      "ring": 0
+    },
+    "det": 0.8216702938079834,
+    "bbox": [
+      308.6165466308594,
+      81.60436248779297,
+      424.82574462890625,
+      211.91943359375
+    ],
+    "face_area_rel": 0.05554507300257683,
+    "combined": 0.322,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/c8307d3aac3a86ed5744b2780e444946-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/c8307d3aac3a86ed5744b2780e444946-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/c8307d3aac3a86ed5744b2780e444946-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/c8307d3aac3a86ed5744b2780e444946-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/c8307d3aac3a86ed5744b2780e444946-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/c8307d3aac3a86ed5744b2780e444946-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/c8307d3aac3a86ed5744b2780e444946-large.jpg"
+  },
+  {
+    "id": 19361809785,
+    "name": "_B3M6998.jpg",
+    "similarity": 0.1993,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.847,
+      "ring": 0
+    },
+    "det": 0.8231716752052307,
+    "bbox": [
+      262.05889892578125,
+      99.42962646484375,
+      367.197509765625,
+      223.24700927734375
+    ],
+    "face_area_rel": 0.0477478988468647,
+    "combined": 0.3133,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/0e350e377a955a7258af9cfb417a46b3-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/0e350e377a955a7258af9cfb417a46b3-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/0e350e377a955a7258af9cfb417a46b3-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/0e350e377a955a7258af9cfb417a46b3-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/0e350e377a955a7258af9cfb417a46b3-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/0e350e377a955a7258af9cfb417a46b3-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/0e350e377a955a7258af9cfb417a46b3-large.jpg"
+  },
+  {
+    "id": 19361848679,
+    "name": "_B3M7391.jpg",
+    "similarity": 0.1834,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.735,
+      "ring": 0
+    },
+    "det": 0.7941638231277466,
+    "bbox": [
+      236.77789306640625,
+      78.34161376953125,
+      344.8673400878906,
+      225.81573486328125
+    ],
+    "face_area_rel": 0.0584668293595314,
+    "combined": 0.2974,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/7a7482757d8dd25eb80947385221b7e1-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/7a7482757d8dd25eb80947385221b7e1-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/7a7482757d8dd25eb80947385221b7e1-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/7a7482757d8dd25eb80947385221b7e1-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/7a7482757d8dd25eb80947385221b7e1-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/7a7482757d8dd25eb80947385221b7e1-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/7a7482757d8dd25eb80947385221b7e1-large.jpg"
+  },
+  {
+    "id": 19361815252,
+    "name": "_B3M7033.jpg",
+    "similarity": 0.1727,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.793,
+      "ring": 0
+    },
+    "det": 0.7960801124572754,
+    "bbox": [
+      158.4824981689453,
+      129.927734375,
+      311.74798583984375,
+      322.53289794921875
+    ],
+    "face_area_rel": 0.04799643158912659,
+    "combined": 0.2867,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/78f678557718ed265035f11c7ca647ad-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/78f678557718ed265035f11c7ca647ad-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/78f678557718ed265035f11c7ca647ad-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/78f678557718ed265035f11c7ca647ad-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/78f678557718ed265035f11c7ca647ad-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/78f678557718ed265035f11c7ca647ad-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/78f678557718ed265035f11c7ca647ad-large.jpg"
+  },
+  {
+    "id": 19361809784,
+    "name": "_B3M6997.jpg",
+    "similarity": 0.1591,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.857,
+      "ring": 0
+    },
+    "det": 0.8373790979385376,
+    "bbox": [
+      249.30612182617188,
+      95.57810974121094,
+      357.17449951171875,
+      221.619873046875
+    ],
+    "face_area_rel": 0.0498676672577858,
+    "combined": 0.2731,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/21d1774c269dd2961840237ecbf18988-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/21d1774c269dd2961840237ecbf18988-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/21d1774c269dd2961840237ecbf18988-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/21d1774c269dd2961840237ecbf18988-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/21d1774c269dd2961840237ecbf18988-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/21d1774c269dd2961840237ecbf18988-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/21d1774c269dd2961840237ecbf18988-large.jpg"
+  },
+  {
+    "id": 19361678818,
+    "name": "_B3M6096.jpg",
+    "similarity": 0.1583,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.852,
+      "ring": 0
+    },
+    "det": 0.7163230776786804,
+    "bbox": [
+      222.6674041748047,
+      132.29470825195312,
+      343.7613525390625,
+      274.848876953125
+    ],
+    "face_area_rel": 0.06331589818000793,
+    "combined": 0.2723,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/9d8aa35a28084c980feec22137c51080-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/9d8aa35a28084c980feec22137c51080-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/9d8aa35a28084c980feec22137c51080-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/9d8aa35a28084c980feec22137c51080-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/9d8aa35a28084c980feec22137c51080-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/9d8aa35a28084c980feec22137c51080-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/9d8aa35a28084c980feec22137c51080-large.jpg"
+  },
+  {
+    "id": 19361847781,
+    "name": "_B3M7387.jpg",
+    "similarity": 0.1529,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.707,
+      "ring": 0
+    },
+    "det": 0.8479558229446411,
+    "bbox": [
+      283.8953857421875,
+      216.05050659179688,
+      442.1064453125,
+      441.48016357421875
+    ],
+    "face_area_rel": 0.05798885598778725,
+    "combined": 0.2669,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/fe69ac25a6f4e3faeee748e5467b88f1-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/fe69ac25a6f4e3faeee748e5467b88f1-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/fe69ac25a6f4e3faeee748e5467b88f1-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/fe69ac25a6f4e3faeee748e5467b88f1-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/fe69ac25a6f4e3faeee748e5467b88f1-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/fe69ac25a6f4e3faeee748e5467b88f1-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/fe69ac25a6f4e3faeee748e5467b88f1-large.jpg"
+  },
+  {
+    "id": 19361848237,
+    "name": "_B3M7389.jpg",
+    "similarity": 0.1494,
+    "glasses": 1.0,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.691,
+      "ring": 1
+    },
+    "det": 0.7427482604980469,
+    "bbox": [
+      268.56402587890625,
+      155.9539031982422,
+      429.6536865234375,
+      388.58880615234375
+    ],
+    "face_area_rel": 0.06093112379312515,
+    "combined": 0.2694,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/628cdca0a98eace9014558d8be103380-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/628cdca0a98eace9014558d8be103380-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/628cdca0a98eace9014558d8be103380-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/628cdca0a98eace9014558d8be103380-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/628cdca0a98eace9014558d8be103380-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/628cdca0a98eace9014558d8be103380-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/628cdca0a98eace9014558d8be103380-large.jpg"
+  },
+  {
+    "id": 19361893244,
+    "name": "_B225533.jpg",
+    "similarity": 0.1467,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.726,
+      "ring": 0
+    },
+    "det": 0.710026741027832,
+    "bbox": [
+      380.3147888183594,
+      88.35342407226562,
+      494.0003662109375,
+      245.21987915039062
+    ],
+    "face_area_rel": 0.06525707244873047,
+    "combined": 0.2607,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/cddce4c256e4a8d84903d8c48ce11ebc-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/cddce4c256e4a8d84903d8c48ce11ebc-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/cddce4c256e4a8d84903d8c48ce11ebc-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/cddce4c256e4a8d84903d8c48ce11ebc-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/cddce4c256e4a8d84903d8c48ce11ebc-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/cddce4c256e4a8d84903d8c48ce11ebc-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/cddce4c256e4a8d84903d8c48ce11ebc-large.jpg"
+  },
+  {
+    "id": 19361804730,
+    "name": "_B3M6965.jpg",
+    "similarity": 0.1389,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.816,
+      "ring": 0
+    },
+    "det": 0.7516152858734131,
+    "bbox": [
+      178.80125427246094,
+      168.531982421875,
+      302.86688232421875,
+      320.39739990234375
+    ],
+    "face_area_rel": 0.03066614456474781,
+    "combined": 0.2529,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/ce9d2b63cfabea4e807d413d526e58ee-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/ce9d2b63cfabea4e807d413d526e58ee-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/ce9d2b63cfabea4e807d413d526e58ee-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/ce9d2b63cfabea4e807d413d526e58ee-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/ce9d2b63cfabea4e807d413d526e58ee-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/ce9d2b63cfabea4e807d413d526e58ee-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/ce9d2b63cfabea4e807d413d526e58ee-large.jpg"
+  },
+  {
+    "id": 19363692444,
+    "name": "O29_3894.jpg",
+    "similarity": 0.1344,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.669,
+      "ring": 0
+    },
+    "det": 0.8025531768798828,
+    "bbox": [
+      153.274169921875,
+      156.6339569091797,
+      337.8056335449219,
+      431.2768249511719
+    ],
+    "face_area_rel": 0.08248738944530487,
+    "combined": 0.2484,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/e7339225f00dccf7b350f60704e504a9-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/e7339225f00dccf7b350f60704e504a9-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/e7339225f00dccf7b350f60704e504a9-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/e7339225f00dccf7b350f60704e504a9-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/e7339225f00dccf7b350f60704e504a9-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/e7339225f00dccf7b350f60704e504a9-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/e7339225f00dccf7b350f60704e504a9-large.jpg"
+  },
+  {
+    "id": 19361815253,
+    "name": "_B3M7034.jpg",
+    "similarity": 0.1308,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.743,
+      "ring": 0
+    },
+    "det": 0.8575775623321533,
+    "bbox": [
+      187.4814453125,
+      134.94309997558594,
+      337.71759033203125,
+      336.3610534667969
+    ],
+    "face_area_rel": 0.04920047149062157,
+    "combined": 0.2448,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/3e43005c5a54886d8ae83edf66d399d3-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/3e43005c5a54886d8ae83edf66d399d3-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/3e43005c5a54886d8ae83edf66d399d3-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/3e43005c5a54886d8ae83edf66d399d3-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/3e43005c5a54886d8ae83edf66d399d3-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/3e43005c5a54886d8ae83edf66d399d3-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/3e43005c5a54886d8ae83edf66d399d3-large.jpg"
+  },
+  {
+    "id": 19361849022,
+    "name": "_B3M7392.jpg",
+    "similarity": 0.1299,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.727,
+      "ring": 0
+    },
+    "det": 0.8328812718391418,
+    "bbox": [
+      236.12802124023438,
+      70.53079223632812,
+      345.24176025390625,
+      220.98562622070312
+    ],
+    "face_area_rel": 0.06021379679441452,
+    "combined": 0.2439,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/fe9159f43a828d890c8b7d8cea479ede-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/fe9159f43a828d890c8b7d8cea479ede-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/fe9159f43a828d890c8b7d8cea479ede-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/fe9159f43a828d890c8b7d8cea479ede-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/fe9159f43a828d890c8b7d8cea479ede-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/fe9159f43a828d890c8b7d8cea479ede-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/fe9159f43a828d890c8b7d8cea479ede-large.jpg"
+  },
+  {
+    "id": 19361679044,
+    "name": "_B3M6099.jpg",
+    "similarity": 0.1237,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.802,
+      "ring": 0
+    },
+    "det": 0.7178587913513184,
+    "bbox": [
+      254.69789123535156,
+      69.35981750488281,
+      339.93756103515625,
+      175.3690948486328
+    ],
+    "face_area_rel": 0.03306570276618004,
+    "combined": 0.2377,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/49eb5fb3e56a4d12098a92645c45f346-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/49eb5fb3e56a4d12098a92645c45f346-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/49eb5fb3e56a4d12098a92645c45f346-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/49eb5fb3e56a4d12098a92645c45f346-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/49eb5fb3e56a4d12098a92645c45f346-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/49eb5fb3e56a4d12098a92645c45f346-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/49eb5fb3e56a4d12098a92645c45f346-large.jpg"
+  },
+  {
+    "id": 19361848678,
+    "name": "_B3M7390.jpg",
+    "similarity": 0.1191,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.682,
+      "ring": 0
+    },
+    "det": 0.813342809677124,
+    "bbox": [
+      265.667724609375,
+      144.8074188232422,
+      424.962158203125,
+      377.2940979003906
+    ],
+    "face_area_rel": 0.06021369621157646,
+    "combined": 0.2331,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/34cce04554eb725ba622316bd5cfbb45-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/34cce04554eb725ba622316bd5cfbb45-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/34cce04554eb725ba622316bd5cfbb45-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/34cce04554eb725ba622316bd5cfbb45-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/34cce04554eb725ba622316bd5cfbb45-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/34cce04554eb725ba622316bd5cfbb45-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/34cce04554eb725ba622316bd5cfbb45-large.jpg"
+  },
+  {
+    "id": 19361896971,
+    "name": "_B235113.jpg",
+    "similarity": 0.1187,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.8,
+      "ring": 0
+    },
+    "det": 0.7897186279296875,
+    "bbox": [
+      294.91827392578125,
+      100.40940856933594,
+      382.5187683105469,
+      210.5490264892578
+    ],
+    "face_area_rel": 0.03530549257993698,
+    "combined": 0.2327,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/0067b00a26e8442bb202031f357fe82f-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/0067b00a26e8442bb202031f357fe82f-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/0067b00a26e8442bb202031f357fe82f-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/0067b00a26e8442bb202031f357fe82f-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/0067b00a26e8442bb202031f357fe82f-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/0067b00a26e8442bb202031f357fe82f-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/0067b00a26e8442bb202031f357fe82f-large.jpg"
+  },
+  {
+    "id": 19361678616,
+    "name": "_B3M6095.jpg",
+    "similarity": 0.1139,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.831,
+      "ring": 0
+    },
+    "det": 0.744748055934906,
+    "bbox": [
+      219.60516357421875,
+      116.76422119140625,
+      342.518798828125,
+      264.6191711425781
+    ],
+    "face_area_rel": 0.06665708869695663,
+    "combined": 0.2279,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/bf807b212bc93d68a5a74a0dd86662e8-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/bf807b212bc93d68a5a74a0dd86662e8-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/bf807b212bc93d68a5a74a0dd86662e8-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/bf807b212bc93d68a5a74a0dd86662e8-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/bf807b212bc93d68a5a74a0dd86662e8-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/bf807b212bc93d68a5a74a0dd86662e8-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/bf807b212bc93d68a5a74a0dd86662e8-large.jpg"
+  },
+  {
+    "id": 19361848236,
+    "name": "_B3M7388.jpg",
+    "similarity": 0.106,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.739,
+      "ring": 0
+    },
+    "det": 0.8462597131729126,
+    "bbox": [
+      277.9710693359375,
+      197.00808715820312,
+      441.0859375,
+      419.5033874511719
+    ],
+    "face_area_rel": 0.05900802090764046,
+    "combined": 0.22,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/1a7c26696798fd6c0059954255428064-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/1a7c26696798fd6c0059954255428064-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/1a7c26696798fd6c0059954255428064-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/1a7c26696798fd6c0059954255428064-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/1a7c26696798fd6c0059954255428064-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/1a7c26696798fd6c0059954255428064-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/1a7c26696798fd6c0059954255428064-large.jpg"
+  },
+  {
+    "id": 19361909396,
+    "name": "_B245214.jpg",
+    "similarity": 0.0976,
+    "glasses": 1.0,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.77,
+      "ring": 1
+    },
+    "det": 0.7552051544189453,
+    "bbox": [
+      225.6380615234375,
+      66.58414459228516,
+      312.93212890625,
+      179.7777557373047
+    ],
+    "face_area_rel": 0.03624241054058075,
+    "combined": 0.2176,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/f561713a5c50bc6b58852dd2668b53db-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/f561713a5c50bc6b58852dd2668b53db-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/f561713a5c50bc6b58852dd2668b53db-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/f561713a5c50bc6b58852dd2668b53db-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/f561713a5c50bc6b58852dd2668b53db-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/f561713a5c50bc6b58852dd2668b53db-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/f561713a5c50bc6b58852dd2668b53db-large.jpg"
+  },
+  {
+    "id": 19363618186,
+    "name": "O26_3212.jpg",
+    "similarity": 0.0969,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.902,
+      "ring": 0
+    },
+    "det": 0.7828075885772705,
+    "bbox": [
+      158.7655792236328,
+      267.2591247558594,
+      324.4512939453125,
+      451.74078369140625
+    ],
+    "face_area_rel": 0.049749307334423065,
+    "combined": 0.2109,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/39ed988114d5c5d57e326c71952485fe-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/39ed988114d5c5d57e326c71952485fe-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/39ed988114d5c5d57e326c71952485fe-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/39ed988114d5c5d57e326c71952485fe-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/39ed988114d5c5d57e326c71952485fe-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/39ed988114d5c5d57e326c71952485fe-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/39ed988114d5c5d57e326c71952485fe-large.jpg"
+  },
+  {
+    "id": 19361677411,
+    "name": "_B3M6085.jpg",
+    "similarity": 0.0968,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.769,
+      "ring": 0
+    },
+    "det": 0.7518879175186157,
+    "bbox": [
+      306.3096923828125,
+      51.945953369140625,
+      389.7307434082031,
+      159.20529174804688
+    ],
+    "face_area_rel": 0.03274182602763176,
+    "combined": 0.2108,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/13ed43ff716656fdbb4415ffa1e389f4-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/13ed43ff716656fdbb4415ffa1e389f4-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/13ed43ff716656fdbb4415ffa1e389f4-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/13ed43ff716656fdbb4415ffa1e389f4-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/13ed43ff716656fdbb4415ffa1e389f4-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/13ed43ff716656fdbb4415ffa1e389f4-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/13ed43ff716656fdbb4415ffa1e389f4-large.jpg"
+  },
+  {
+    "id": 19361677410,
+    "name": "_B3M6084.jpg",
+    "similarity": 0.0932,
+    "glasses": 1.0,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.827,
+      "ring": 1
+    },
+    "det": 0.726438581943512,
+    "bbox": [
+      305.6859436035156,
+      51.300350189208984,
+      391.6455993652344,
+      155.99163818359375
+    ],
+    "face_area_rel": 0.03293042629957199,
+    "combined": 0.2132,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/da16090411a9d47df96eec28ab0360ed-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/da16090411a9d47df96eec28ab0360ed-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/da16090411a9d47df96eec28ab0360ed-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/da16090411a9d47df96eec28ab0360ed-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/da16090411a9d47df96eec28ab0360ed-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/da16090411a9d47df96eec28ab0360ed-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/da16090411a9d47df96eec28ab0360ed-large.jpg"
+  },
+  {
+    "id": 19361666348,
+    "name": "_B3M5996.jpg",
+    "similarity": 0.0925,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.714,
+      "ring": 0
+    },
+    "det": 0.8156404495239258,
+    "bbox": [
+      227.3101806640625,
+      149.1405487060547,
+      397.695556640625,
+      387.8622741699219
+    ],
+    "face_area_rel": 0.06613340973854065,
+    "combined": 0.2065,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/1c1dc2daff7966697b354fa610ebc5ce-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/1c1dc2daff7966697b354fa610ebc5ce-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/1c1dc2daff7966697b354fa610ebc5ce-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/1c1dc2daff7966697b354fa610ebc5ce-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/1c1dc2daff7966697b354fa610ebc5ce-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/1c1dc2daff7966697b354fa610ebc5ce-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/1c1dc2daff7966697b354fa610ebc5ce-large.jpg"
+  },
+  {
+    "id": 19361804731,
+    "name": "_B3M6966.jpg",
+    "similarity": 0.0914,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.819,
+      "ring": 0
+    },
+    "det": 0.7529339790344238,
+    "bbox": [
+      171.2769012451172,
+      171.8511962890625,
+      298.4716491699219,
+      326.72076416015625
+    ],
+    "face_area_rel": 0.03206151723861694,
+    "combined": 0.2054,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/c4ee387a2ab7da415428569f6478f0b7-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/c4ee387a2ab7da415428569f6478f0b7-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/c4ee387a2ab7da415428569f6478f0b7-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/c4ee387a2ab7da415428569f6478f0b7-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/c4ee387a2ab7da415428569f6478f0b7-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/c4ee387a2ab7da415428569f6478f0b7-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/c4ee387a2ab7da415428569f6478f0b7-large.jpg"
+  },
+  {
+    "id": 19361680221,
+    "name": "_B3M6109.jpg",
+    "similarity": 0.0876,
+    "glasses": 1.0,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.832,
+      "ring": 1
+    },
+    "det": 0.7147175669670105,
+    "bbox": [
+      331.9547424316406,
+      74.98384857177734,
+      415.3274230957031,
+      175.909912109375
+    ],
+    "face_area_rel": 0.030790679156780243,
+    "combined": 0.2076,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/1d8b48fd2f261ffdb6ec827f537fb679-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/1d8b48fd2f261ffdb6ec827f537fb679-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/1d8b48fd2f261ffdb6ec827f537fb679-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/1d8b48fd2f261ffdb6ec827f537fb679-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/1d8b48fd2f261ffdb6ec827f537fb679-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/1d8b48fd2f261ffdb6ec827f537fb679-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/1d8b48fd2f261ffdb6ec827f537fb679-large.jpg"
+  },
+  {
+    "id": 19361679769,
+    "name": "_B3M6104.jpg",
+    "similarity": 0.0879,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.83,
+      "ring": 0
+    },
+    "det": 0.7077136635780334,
+    "bbox": [
+      277.84466552734375,
+      59.021400451660156,
+      360.413818359375,
+      159.79708862304688
+    ],
+    "face_area_rel": 0.030448488891124725,
+    "combined": 0.2019,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/9ee431d77af05ce52966a63dbf7fad46-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/9ee431d77af05ce52966a63dbf7fad46-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/9ee431d77af05ce52966a63dbf7fad46-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/9ee431d77af05ce52966a63dbf7fad46-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/9ee431d77af05ce52966a63dbf7fad46-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/9ee431d77af05ce52966a63dbf7fad46-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/9ee431d77af05ce52966a63dbf7fad46-large.jpg"
+  },
+  {
+    "id": 19361676887,
+    "name": "_B3M6081.jpg",
+    "similarity": 0.0791,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.775,
+      "ring": 0
+    },
+    "det": 0.7272437214851379,
+    "bbox": [
+      269.95538330078125,
+      64.161376953125,
+      355.50018310546875,
+      175.6784210205078
+    ],
+    "face_area_rel": 0.03490816429257393,
+    "combined": 0.1931,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/702b82c625a5ee2b9639d472a51feb47-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/702b82c625a5ee2b9639d472a51feb47-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/702b82c625a5ee2b9639d472a51feb47-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/702b82c625a5ee2b9639d472a51feb47-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/702b82c625a5ee2b9639d472a51feb47-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/702b82c625a5ee2b9639d472a51feb47-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/702b82c625a5ee2b9639d472a51feb47-large.jpg"
+  },
+  {
+    "id": 19361677715,
+    "name": "_B3M6087.jpg",
+    "similarity": 0.0741,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.766,
+      "ring": 0
+    },
+    "det": 0.7182846665382385,
+    "bbox": [
+      303.6756896972656,
+      68.1092529296875,
+      385.864990234375,
+      175.1621551513672
+    ],
+    "face_area_rel": 0.032196294516325,
+    "combined": 0.1881,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/11fee2671b19c0af4a6d51949d1dc7bb-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/11fee2671b19c0af4a6d51949d1dc7bb-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/11fee2671b19c0af4a6d51949d1dc7bb-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/11fee2671b19c0af4a6d51949d1dc7bb-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/11fee2671b19c0af4a6d51949d1dc7bb-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/11fee2671b19c0af4a6d51949d1dc7bb-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/11fee2671b19c0af4a6d51949d1dc7bb-large.jpg"
+  },
+  {
+    "id": 19361666347,
+    "name": "_B3M5995.jpg",
+    "similarity": 0.0725,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.683,
+      "ring": 0
+    },
+    "det": 0.7872170209884644,
+    "bbox": [
+      202.8097381591797,
+      160.03831481933594,
+      368.3528137207031,
+      403.2333679199219
+    ],
+    "face_area_rel": 0.06545794755220413,
+    "combined": 0.1865,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/74b53c4ba6b71e2650c40047aa2ab4ee-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/74b53c4ba6b71e2650c40047aa2ab4ee-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/74b53c4ba6b71e2650c40047aa2ab4ee-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/74b53c4ba6b71e2650c40047aa2ab4ee-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/74b53c4ba6b71e2650c40047aa2ab4ee-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/74b53c4ba6b71e2650c40047aa2ab4ee-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/74b53c4ba6b71e2650c40047aa2ab4ee-large.jpg"
+  },
+  {
+    "id": 19361677120,
+    "name": "_B3M6083.jpg",
+    "similarity": 0.0674,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.794,
+      "ring": 0
+    },
+    "det": 0.7771053910255432,
+    "bbox": [
+      257.0045166015625,
+      46.01140594482422,
+      342.0684814453125,
+      153.45556640625
+    ],
+    "face_area_rel": 0.033444181084632874,
+    "combined": 0.1814,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/cb1a68e9a0fe9bc12c6f63395c65e5f1-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/cb1a68e9a0fe9bc12c6f63395c65e5f1-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/cb1a68e9a0fe9bc12c6f63395c65e5f1-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/cb1a68e9a0fe9bc12c6f63395c65e5f1-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/cb1a68e9a0fe9bc12c6f63395c65e5f1-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/cb1a68e9a0fe9bc12c6f63395c65e5f1-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/cb1a68e9a0fe9bc12c6f63395c65e5f1-large.jpg"
+  },
+  {
+    "id": 19361803690,
+    "name": "_B3M6960.jpg",
+    "similarity": 0.0661,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.776,
+      "ring": 0
+    },
+    "det": 0.7982027530670166,
+    "bbox": [
+      346.37591552734375,
+      53.53003692626953,
+      467.02154541015625,
+      209.42018127441406
+    ],
+    "face_area_rel": 0.06898277252912521,
+    "combined": 0.1801,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/9e1aa8f4458d0239b45936dd3f10f3a3-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/9e1aa8f4458d0239b45936dd3f10f3a3-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/9e1aa8f4458d0239b45936dd3f10f3a3-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/9e1aa8f4458d0239b45936dd3f10f3a3-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/9e1aa8f4458d0239b45936dd3f10f3a3-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/9e1aa8f4458d0239b45936dd3f10f3a3-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/9e1aa8f4458d0239b45936dd3f10f3a3-large.jpg"
+  },
+  {
+    "id": 19363483464,
+    "name": "O3M_2337.jpg",
+    "similarity": 0.0655,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.828,
+      "ring": 0
+    },
+    "det": 0.8257060050964355,
+    "bbox": [
+      245.64151000976562,
+      75.95870971679688,
+      351.39013671875,
+      203.09771728515625
+    ],
+    "face_area_rel": 0.04919780045747757,
+    "combined": 0.1795,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/cb52e980b4990a1b939c45daaf5525fc-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/cb52e980b4990a1b939c45daaf5525fc-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/cb52e980b4990a1b939c45daaf5525fc-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/cb52e980b4990a1b939c45daaf5525fc-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/cb52e980b4990a1b939c45daaf5525fc-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/cb52e980b4990a1b939c45daaf5525fc-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/cb52e980b4990a1b939c45daaf5525fc-large.jpg"
+  },
+  {
+    "id": 19361679518,
+    "name": "_B3M6102.jpg",
+    "similarity": 0.0641,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.752,
+      "ring": 0
+    },
+    "det": 0.7434172630310059,
+    "bbox": [
+      266.7602233886719,
+      48.564640045166016,
+      348.95587158203125,
+      157.62803649902344
+    ],
+    "face_area_rel": 0.0328034870326519,
+    "combined": 0.1781,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/8126129bd58dfb7c7e08ca7acecc3689-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/8126129bd58dfb7c7e08ca7acecc3689-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/8126129bd58dfb7c7e08ca7acecc3689-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/8126129bd58dfb7c7e08ca7acecc3689-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/8126129bd58dfb7c7e08ca7acecc3689-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/8126129bd58dfb7c7e08ca7acecc3689-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/8126129bd58dfb7c7e08ca7acecc3689-large.jpg"
+  },
+  {
+    "id": 19361838599,
+    "name": "_B3M7328.jpg",
+    "similarity": 0.0625,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.73,
+      "ring": 0
+    },
+    "det": 0.8304618000984192,
+    "bbox": [
+      291.2099914550781,
+      132.939697265625,
+      434.72021484375,
+      328.258544921875
+    ],
+    "face_area_rel": 0.04557467997074127,
+    "combined": 0.1765,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/f23d02460da1982509fab97ad8eef446-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/f23d02460da1982509fab97ad8eef446-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/f23d02460da1982509fab97ad8eef446-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/f23d02460da1982509fab97ad8eef446-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/f23d02460da1982509fab97ad8eef446-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/f23d02460da1982509fab97ad8eef446-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/f23d02460da1982509fab97ad8eef446-large.jpg"
+  },
+  {
+    "id": 19363102086,
+    "name": "J2307592.jpg",
+    "similarity": 0.0622,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.672,
+      "ring": 0
+    },
+    "det": 0.8593382239341736,
+    "bbox": [
+      270.30645751953125,
+      211.5531463623047,
+      401.73614501953125,
+      406.7183532714844
+    ],
+    "face_area_rel": 0.04174886271357536,
+    "combined": 0.1762,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/746f955344717ca3784bebc31f8055ce-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/746f955344717ca3784bebc31f8055ce-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/746f955344717ca3784bebc31f8055ce-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/746f955344717ca3784bebc31f8055ce-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/746f955344717ca3784bebc31f8055ce-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/746f955344717ca3784bebc31f8055ce-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/746f955344717ca3784bebc31f8055ce-large.jpg"
+  },
+  {
+    "id": 19361679043,
+    "name": "_B3M6098.jpg",
+    "similarity": 0.0617,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.822,
+      "ring": 0
+    },
+    "det": 0.6936812400817871,
+    "bbox": [
+      269.2500305175781,
+      56.99195098876953,
+      352.560546875,
+      157.5830841064453
+    ],
+    "face_area_rel": 0.03066561371088028,
+    "combined": 0.1757,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/dc7b083dfa1ccdac30453a394b864680-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/dc7b083dfa1ccdac30453a394b864680-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/dc7b083dfa1ccdac30453a394b864680-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/dc7b083dfa1ccdac30453a394b864680-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/dc7b083dfa1ccdac30453a394b864680-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/dc7b083dfa1ccdac30453a394b864680-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/dc7b083dfa1ccdac30453a394b864680-large.jpg"
+  },
+  {
+    "id": 19361677714,
+    "name": "_B3M6086.jpg",
+    "similarity": 0.0602,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.761,
+      "ring": 0
+    },
+    "det": 0.7769201993942261,
+    "bbox": [
+      293.8082580566406,
+      70.36561584472656,
+      376.67413330078125,
+      179.23837280273438
+    ],
+    "face_area_rel": 0.03301315754652023,
+    "combined": 0.1742,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/d773a750e0be8e3bb49e0dcfcf5e8fbb-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/d773a750e0be8e3bb49e0dcfcf5e8fbb-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/d773a750e0be8e3bb49e0dcfcf5e8fbb-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/d773a750e0be8e3bb49e0dcfcf5e8fbb-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/d773a750e0be8e3bb49e0dcfcf5e8fbb-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/d773a750e0be8e3bb49e0dcfcf5e8fbb-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/d773a750e0be8e3bb49e0dcfcf5e8fbb-large.jpg"
+  },
+  {
+    "id": 19361803689,
+    "name": "_B3M6959.jpg",
+    "similarity": 0.0592,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.781,
+      "ring": 0
+    },
+    "det": 0.8331079483032227,
+    "bbox": [
+      372.8326721191406,
+      50.34283447265625,
+      493.50872802734375,
+      205.40750122070312
+    ],
+    "face_area_rel": 0.06863480061292648,
+    "combined": 0.1732,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/e4cd0d86bb9ad0e712b3439993ff1bbf-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/e4cd0d86bb9ad0e712b3439993ff1bbf-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/e4cd0d86bb9ad0e712b3439993ff1bbf-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/e4cd0d86bb9ad0e712b3439993ff1bbf-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/e4cd0d86bb9ad0e712b3439993ff1bbf-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/e4cd0d86bb9ad0e712b3439993ff1bbf-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/e4cd0d86bb9ad0e712b3439993ff1bbf-large.jpg"
+  },
+  {
+    "id": 19361804371,
+    "name": "_B3M6964.jpg",
+    "similarity": 0.0589,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.794,
+      "ring": 0
+    },
+    "det": 0.8333131074905396,
+    "bbox": [
+      275.9208984375,
+      64.00640869140625,
+      398.7750244140625,
+      219.13137817382812
+    ],
+    "face_area_rel": 0.0699007585644722,
+    "combined": 0.1729,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/f3e4d3f6c0b652120188abeec576af77-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/f3e4d3f6c0b652120188abeec576af77-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/f3e4d3f6c0b652120188abeec576af77-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/f3e4d3f6c0b652120188abeec576af77-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/f3e4d3f6c0b652120188abeec576af77-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/f3e4d3f6c0b652120188abeec576af77-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/f3e4d3f6c0b652120188abeec576af77-large.jpg"
+  },
+  {
+    "id": 19361676886,
+    "name": "_B3M6080.jpg",
+    "similarity": 0.0586,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.802,
+      "ring": 0
+    },
+    "det": 0.7246207594871521,
+    "bbox": [
+      291.13427734375,
+      62.87171173095703,
+      372.96331787109375,
+      163.24237060546875
+    ],
+    "face_area_rel": 0.030054282397031784,
+    "combined": 0.1726,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/e2d4ffd16921bb79a0f41f52608afe37-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/e2d4ffd16921bb79a0f41f52608afe37-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/e2d4ffd16921bb79a0f41f52608afe37-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/e2d4ffd16921bb79a0f41f52608afe37-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/e2d4ffd16921bb79a0f41f52608afe37-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/e2d4ffd16921bb79a0f41f52608afe37-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/e2d4ffd16921bb79a0f41f52608afe37-large.jpg"
+  },
+  {
+    "id": 19361699784,
+    "name": "_B3M6211.jpg",
+    "similarity": 0.0578,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.763,
+      "ring": 0
+    },
+    "det": 0.8148594498634338,
+    "bbox": [
+      304.2862548828125,
+      72.47451782226562,
+      391.3543701171875,
+      186.91876220703125
+    ],
+    "face_area_rel": 0.03646240010857582,
+    "combined": 0.1718,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/bf29d8eb3861c9d97463c3b1659c4265-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/bf29d8eb3861c9d97463c3b1659c4265-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/bf29d8eb3861c9d97463c3b1659c4265-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/bf29d8eb3861c9d97463c3b1659c4265-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/bf29d8eb3861c9d97463c3b1659c4265-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/bf29d8eb3861c9d97463c3b1659c4265-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/bf29d8eb3861c9d97463c3b1659c4265-large.jpg"
+  },
+  {
+    "id": 19361839032,
+    "name": "_B3M7330.jpg",
+    "similarity": 0.0565,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.791,
+      "ring": 0
+    },
+    "det": 0.7870910167694092,
+    "bbox": [
+      194.8082275390625,
+      56.121681213378906,
+      296.18243408203125,
+      185.2073211669922
+    ],
+    "face_area_rel": 0.047997187823057175,
+    "combined": 0.1705,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/fec792ca6c49939bd26779aaa39581d0-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/fec792ca6c49939bd26779aaa39581d0-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/fec792ca6c49939bd26779aaa39581d0-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/fec792ca6c49939bd26779aaa39581d0-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/fec792ca6c49939bd26779aaa39581d0-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/fec792ca6c49939bd26779aaa39581d0-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/fec792ca6c49939bd26779aaa39581d0-large.jpg"
+  },
+  {
+    "id": 19361679519,
+    "name": "_B3M6103.jpg",
+    "similarity": 0.0559,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.776,
+      "ring": 0
+    },
+    "det": 0.7499826550483704,
+    "bbox": [
+      274.8255615234375,
+      47.92971420288086,
+      357.20806884765625,
+      154.0171356201172
+    ],
+    "face_area_rel": 0.03198092430830002,
+    "combined": 0.1699,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/7d4ce8aba1eaa4d1c7a4ef7f3d5baf16-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/7d4ce8aba1eaa4d1c7a4ef7f3d5baf16-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/7d4ce8aba1eaa4d1c7a4ef7f3d5baf16-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/7d4ce8aba1eaa4d1c7a4ef7f3d5baf16-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/7d4ce8aba1eaa4d1c7a4ef7f3d5baf16-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/7d4ce8aba1eaa4d1c7a4ef7f3d5baf16-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/7d4ce8aba1eaa4d1c7a4ef7f3d5baf16-large.jpg"
+  },
+  {
+    "id": 19362823932,
+    "name": "C27_0003.jpg",
+    "similarity": 0.0535,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.744,
+      "ring": 0
+    },
+    "det": 0.8225069046020508,
+    "bbox": [
+      274.9077453613281,
+      280.57415771484375,
+      399.907470703125,
+      448.0278015136719
+    ],
+    "face_area_rel": 0.034068457782268524,
+    "combined": 0.1675,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/efe4271c3100e4cdaf5e6b40cfd1a14c-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/efe4271c3100e4cdaf5e6b40cfd1a14c-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/efe4271c3100e4cdaf5e6b40cfd1a14c-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/efe4271c3100e4cdaf5e6b40cfd1a14c-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/efe4271c3100e4cdaf5e6b40cfd1a14c-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/efe4271c3100e4cdaf5e6b40cfd1a14c-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/efe4271c3100e4cdaf5e6b40cfd1a14c-large.jpg"
+  },
+  {
+    "id": 19361670405,
+    "name": "_B3M6029.jpg",
+    "similarity": 0.053,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.709,
+      "ring": 0
+    },
+    "det": 0.8240651488304138,
+    "bbox": [
+      226.4031524658203,
+      137.037841796875,
+      348.1221008300781,
+      309.1070251464844
+    ],
+    "face_area_rel": 0.03408867120742798,
+    "combined": 0.167,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/4cc4c69bc958d686e5a4a1b36499419e-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/4cc4c69bc958d686e5a4a1b36499419e-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/4cc4c69bc958d686e5a4a1b36499419e-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/4cc4c69bc958d686e5a4a1b36499419e-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/4cc4c69bc958d686e5a4a1b36499419e-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/4cc4c69bc958d686e5a4a1b36499419e-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/4cc4c69bc958d686e5a4a1b36499419e-large.jpg"
+  },
+  {
+    "id": 19363080852,
+    "name": "J2107942.jpg",
+    "similarity": 0.0505,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.804,
+      "ring": 0
+    },
+    "det": 0.7807509899139404,
+    "bbox": [
+      332.31036376953125,
+      102.8482666015625,
+      443.916748046875,
+      240.5950164794922
+    ],
+    "face_area_rel": 0.05625518411397934,
+    "combined": 0.1645,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/fe2f236ef4af7c8fd56923cba11dd9a5-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/fe2f236ef4af7c8fd56923cba11dd9a5-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/fe2f236ef4af7c8fd56923cba11dd9a5-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/fe2f236ef4af7c8fd56923cba11dd9a5-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/fe2f236ef4af7c8fd56923cba11dd9a5-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/fe2f236ef4af7c8fd56923cba11dd9a5-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/fe2f236ef4af7c8fd56923cba11dd9a5-large.jpg"
+  },
+  {
+    "id": 19363077001,
+    "name": "J2107238.jpg",
+    "similarity": 0.0498,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.683,
+      "ring": 0
+    },
+    "det": 0.7682777643203735,
+    "bbox": [
+      271.7174987792969,
+      159.8990478515625,
+      435.1744079589844,
+      399.05419921875
+    ],
+    "face_area_rel": 0.06362558901309967,
+    "combined": 0.1638,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/5757065738a3a191a8096307bafa6f49-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/5757065738a3a191a8096307bafa6f49-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/5757065738a3a191a8096307bafa6f49-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/5757065738a3a191a8096307bafa6f49-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/5757065738a3a191a8096307bafa6f49-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/5757065738a3a191a8096307bafa6f49-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/5757065738a3a191a8096307bafa6f49-large.jpg"
+  },
+  {
+    "id": 19363651908,
+    "name": "O26_4058.jpg",
+    "similarity": 0.0496,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.791,
+      "ring": 0
+    },
+    "det": 0.8711283802986145,
+    "bbox": [
+      257.5622253417969,
+      259.3288879394531,
+      408.4904479980469,
+      450.7467041015625
+    ],
+    "face_area_rel": 0.047022055834531784,
+    "combined": 0.1636,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/2b3bdddadb09b88f5ed9b4b9490b4bb2-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/2b3bdddadb09b88f5ed9b4b9490b4bb2-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/2b3bdddadb09b88f5ed9b4b9490b4bb2-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/2b3bdddadb09b88f5ed9b4b9490b4bb2-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/2b3bdddadb09b88f5ed9b4b9490b4bb2-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/2b3bdddadb09b88f5ed9b4b9490b4bb2-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/2b3bdddadb09b88f5ed9b4b9490b4bb2-large.jpg"
+  },
+  {
+    "id": 19361805023,
+    "name": "_B3M6967.jpg",
+    "similarity": 0.049,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.774,
+      "ring": 0
+    },
+    "det": 0.8104026317596436,
+    "bbox": [
+      157.06805419921875,
+      154.7472381591797,
+      284.682373046875,
+      318.34552001953125
+    ],
+    "face_area_rel": 0.03398027643561363,
+    "combined": 0.163,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/faf0d1009746a220878489ca7bd2f561-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/faf0d1009746a220878489ca7bd2f561-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/faf0d1009746a220878489ca7bd2f561-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/faf0d1009746a220878489ca7bd2f561-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/faf0d1009746a220878489ca7bd2f561-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/faf0d1009746a220878489ca7bd2f561-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/faf0d1009746a220878489ca7bd2f561-large.jpg"
+  },
+  {
+    "id": 19361740096,
+    "name": "_B3M6530.jpg",
+    "similarity": 0.048,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.729,
+      "ring": 0
+    },
+    "det": 0.83966064453125,
+    "bbox": [
+      326.4795227050781,
+      64.991455078125,
+      420.58746337890625,
+      193.68289184570312
+    ],
+    "face_area_rel": 0.044316764920949936,
+    "combined": 0.162,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/9bc0f9c510167ef19191142c7790cfc7-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/9bc0f9c510167ef19191142c7790cfc7-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/9bc0f9c510167ef19191142c7790cfc7-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/9bc0f9c510167ef19191142c7790cfc7-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/9bc0f9c510167ef19191142c7790cfc7-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/9bc0f9c510167ef19191142c7790cfc7-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/9bc0f9c510167ef19191142c7790cfc7-large.jpg"
+  },
+  {
+    "id": 19361839031,
+    "name": "_B3M7329.jpg",
+    "similarity": 0.048,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.766,
+      "ring": 0
+    },
+    "det": 0.8071650266647339,
+    "bbox": [
+      199.202880859375,
+      58.10774230957031,
+      297.5513916015625,
+      186.48751831054688
+    ],
+    "face_area_rel": 0.04631000757217407,
+    "combined": 0.162,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/aeb36434f396f901a8182eff89f4d390-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/aeb36434f396f901a8182eff89f4d390-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/aeb36434f396f901a8182eff89f4d390-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/aeb36434f396f901a8182eff89f4d390-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/aeb36434f396f901a8182eff89f4d390-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/aeb36434f396f901a8182eff89f4d390-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/aeb36434f396f901a8182eff89f4d390-large.jpg"
+  },
+  {
+    "id": 19361878693,
+    "name": "_B215046.jpg",
+    "similarity": 0.0452,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.806,
+      "ring": 0
+    },
+    "det": 0.6795028448104858,
+    "bbox": [
+      235.67869567871094,
+      70.9303207397461,
+      385.4159851074219,
+      256.02276611328125
+    ],
+    "face_area_rel": 0.10165507346391678,
+    "combined": 0.1592,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/c7968a9c72fada1577bc993e8f3d943c-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/c7968a9c72fada1577bc993e8f3d943c-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/c7968a9c72fada1577bc993e8f3d943c-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/c7968a9c72fada1577bc993e8f3d943c-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/c7968a9c72fada1577bc993e8f3d943c-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/c7968a9c72fada1577bc993e8f3d943c-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/c7968a9c72fada1577bc993e8f3d943c-large.jpg"
+  },
+  {
+    "id": 19361678615,
+    "name": "_B3M6094.jpg",
+    "similarity": 0.0435,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.85,
+      "ring": 0
+    },
+    "det": 0.7896459102630615,
+    "bbox": [
+      212.6063995361328,
+      108.09071350097656,
+      331.1368713378906,
+      248.69387817382812
+    ],
+    "face_area_rel": 0.06112734600901604,
+    "combined": 0.1575,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/6a1867a1b07d76dedd80d2d31e47d243-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/6a1867a1b07d76dedd80d2d31e47d243-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/6a1867a1b07d76dedd80d2d31e47d243-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/6a1867a1b07d76dedd80d2d31e47d243-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/6a1867a1b07d76dedd80d2d31e47d243-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/6a1867a1b07d76dedd80d2d31e47d243-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/6a1867a1b07d76dedd80d2d31e47d243-large.jpg"
+  },
+  {
+    "id": 19361838598,
+    "name": "_B3M7327.jpg",
+    "similarity": 0.0431,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.684,
+      "ring": 0
+    },
+    "det": 0.8651707172393799,
+    "bbox": [
+      258.1101379394531,
+      132.47195434570312,
+      403.16058349609375,
+      344.5850830078125
+    ],
+    "face_area_rel": 0.05002455785870552,
+    "combined": 0.1571,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/ba40e894b34a087e9c254909e7de3ae3-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/ba40e894b34a087e9c254909e7de3ae3-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/ba40e894b34a087e9c254909e7de3ae3-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/ba40e894b34a087e9c254909e7de3ae3-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/ba40e894b34a087e9c254909e7de3ae3-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/ba40e894b34a087e9c254909e7de3ae3-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/ba40e894b34a087e9c254909e7de3ae3-large.jpg"
+  },
+  {
+    "id": 19361678434,
+    "name": "_B3M6092.jpg",
+    "similarity": 0.0428,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.833,
+      "ring": 0
+    },
+    "det": 0.7362431883811951,
+    "bbox": [
+      336.8337097167969,
+      59.62887954711914,
+      421.3858642578125,
+      161.1782684326172
+    ],
+    "face_area_rel": 0.03141912817955017,
+    "combined": 0.1568,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/a3f38544364f8d719da6bf2d694d2042-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/a3f38544364f8d719da6bf2d694d2042-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/a3f38544364f8d719da6bf2d694d2042-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/a3f38544364f8d719da6bf2d694d2042-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/a3f38544364f8d719da6bf2d694d2042-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/a3f38544364f8d719da6bf2d694d2042-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/a3f38544364f8d719da6bf2d694d2042-large.jpg"
+  },
+  {
+    "id": 19361802943,
+    "name": "_B3M6956.jpg",
+    "similarity": 0.0426,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.791,
+      "ring": 0
+    },
+    "det": 0.8074781894683838,
+    "bbox": [
+      284.0831298828125,
+      111.25255584716797,
+      409.24017333984375,
+      269.56097412109375
+    ],
+    "face_area_rel": 0.07267243415117264,
+    "combined": 0.1566,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/d0d0b934b10c2758ca717dcccc16b1e0-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/d0d0b934b10c2758ca717dcccc16b1e0-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/d0d0b934b10c2758ca717dcccc16b1e0-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/d0d0b934b10c2758ca717dcccc16b1e0-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/d0d0b934b10c2758ca717dcccc16b1e0-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/d0d0b934b10c2758ca717dcccc16b1e0-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/d0d0b934b10c2758ca717dcccc16b1e0-large.jpg"
+  },
+  {
+    "id": 19363651907,
+    "name": "O26_4057.jpg",
+    "similarity": 0.0425,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.774,
+      "ring": 0
+    },
+    "det": 0.7740368247032166,
+    "bbox": [
+      271.3147888183594,
+      273.5387268066406,
+      422.1382141113281,
+      468.6711730957031
+    ],
+    "face_area_rel": 0.047901272773742676,
+    "combined": 0.1565,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/8dfe6e7808344bcc5fc6c78f7d2938f2-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/8dfe6e7808344bcc5fc6c78f7d2938f2-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/8dfe6e7808344bcc5fc6c78f7d2938f2-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/8dfe6e7808344bcc5fc6c78f7d2938f2-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/8dfe6e7808344bcc5fc6c78f7d2938f2-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/8dfe6e7808344bcc5fc6c78f7d2938f2-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/8dfe6e7808344bcc5fc6c78f7d2938f2-large.jpg"
+  },
+  {
+    "id": 19361682048,
+    "name": "_B3M6129.jpg",
+    "similarity": 0.0405,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.816,
+      "ring": 0
+    },
+    "det": 0.693143367767334,
+    "bbox": [
+      269.7164306640625,
+      47.20695495605469,
+      389.3265075683594,
+      194.5994873046875
+    ],
+    "face_area_rel": 0.06466268002986908,
+    "combined": 0.1545,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/ffb1b6d399fdd579d48912c95eb8466f-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/ffb1b6d399fdd579d48912c95eb8466f-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/ffb1b6d399fdd579d48912c95eb8466f-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/ffb1b6d399fdd579d48912c95eb8466f-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/ffb1b6d399fdd579d48912c95eb8466f-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/ffb1b6d399fdd579d48912c95eb8466f-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/ffb1b6d399fdd579d48912c95eb8466f-large.jpg"
+  },
+  {
+    "id": 19363465720,
+    "name": "O3M_2212.jpg",
+    "similarity": 0.0379,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.761,
+      "ring": 0
+    },
+    "det": 0.7587437629699707,
+    "bbox": [
+      220.78921508789062,
+      52.175865173339844,
+      338.4226989746094,
+      207.68646240234375
+    ],
+    "face_area_rel": 0.0669395923614502,
+    "combined": 0.1519,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/06d36bfdf0b8b98a68cb5c779dbb8d33-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/06d36bfdf0b8b98a68cb5c779dbb8d33-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/06d36bfdf0b8b98a68cb5c779dbb8d33-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/06d36bfdf0b8b98a68cb5c779dbb8d33-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/06d36bfdf0b8b98a68cb5c779dbb8d33-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/06d36bfdf0b8b98a68cb5c779dbb8d33-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/06d36bfdf0b8b98a68cb5c779dbb8d33-large.jpg"
+  },
+  {
+    "id": 19361805659,
+    "name": "_B3M6972.jpg",
+    "similarity": 0.0373,
+    "glasses": 0.95,
+    "glasses_info": {
+      "circles": 2,
+      "aspect": 0.732,
+      "ring": 0
+    },
+    "det": 0.8048726320266724,
+    "bbox": [
+      128.0282745361328,
+      163.1548614501953,
+      251.21585083007812,
+      331.427490234375
+    ],
+    "face_area_rel": 0.033738765865564346,
+    "combined": 0.1513,
+    "urls": {
+      "thumb": "https://images.pixieset.com/704647811/c9c2b55cd81bccc5f99bcdca29b18ce8-thumb.jpg",
+      "small": "https://images.pixieset.com/704647811/c9c2b55cd81bccc5f99bcdca29b18ce8-small.jpg",
+      "medium": "https://images.pixieset.com/704647811/c9c2b55cd81bccc5f99bcdca29b18ce8-medium.jpg",
+      "large": "https://images.pixieset.com/704647811/c9c2b55cd81bccc5f99bcdca29b18ce8-large.jpg",
+      "xlarge": "https://images.pixieset.com/704647811/c9c2b55cd81bccc5f99bcdca29b18ce8-xlarge.jpg",
+      "xxlarge": "https://images.pixieset.com/704647811/c9c2b55cd81bccc5f99bcdca29b18ce8-xxlarge.jpg"
+    },
+    "preview": "https://images.pixieset.com/704647811/c9c2b55cd81bccc5f99bcdca29b18ce8-large.jpg"
+  }
+]

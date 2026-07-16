@@ -1,0 +1,20 @@
+# Bulky / regenerable artifacts
+node_modules/
+models/*.onnx
+out/results/
+out/*.html
+out/*.png
+out/page.html
+out/cffi-page.html
+out/thumbs/
+out/candidates/
+out/loadphotos-page-*.json
+out/api-probe.json
+out/cf-status.png
+out/dom-imgs.json
+out/hits.json
+out/info.json
+out/loadphotos-hits.json
+out/page-info.json
+reference/
+__pycache__/
